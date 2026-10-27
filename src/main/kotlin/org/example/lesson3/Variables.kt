@@ -1,5 +1,5 @@
 package org.example.lesson3
-
+/*
 // blabla auto
 val shassi: String = "bslkdsdklsld667788"
 
@@ -35,3 +35,6 @@ const val PI: Double = 3.14 // only primitive, out of fun and class
 val lazyValue: String by lazy {
     Thread.sleep(millis = 2000)
     "this is very lazy String"
+}
+/*
+ */

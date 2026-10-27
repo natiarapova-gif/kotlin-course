@@ -1,5 +1,3 @@
-import kotlin.concurrent.timer
-
 
 // 1. Название мероприятия (неизменяемая публичная переменная известная на момент написания)
 val name: String = "Hackathon Survival"
