@@ -1,4 +1,4 @@
-package org.example.lessons18.Homeworks
+package org.example.lessons18
 
 import java.io.InputStream
 

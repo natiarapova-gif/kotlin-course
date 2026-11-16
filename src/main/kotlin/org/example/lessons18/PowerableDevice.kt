@@ -1,4 +1,4 @@
-package org.example.lessons18.Homeworks
+package org.example.lessons18
 
 // ===== Task 2. Абстрактный класс включаемого оборудования =====
 abstract class PowerableDevice : Powerable {
